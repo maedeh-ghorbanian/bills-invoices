@@ -1,0 +1,5 @@
+Solution:
+In this python pipeline, cv2 and pytesseract applied to read the image and extract text from the images in respect. Then, the pytesseract output is used to recognize three key information comprising “Date”, “Tax”, and “Total”. 
+
+Visualization:
+This python pipeline outputs key information as json.
